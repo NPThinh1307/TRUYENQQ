@@ -8,7 +8,7 @@ import os
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-
+ 
 """
 CRAWLER using Web Scraping.
 Main Source (TruyenQQ): https://truyenqqko.com/doc-truyen (HTML: view-source:https://truyenqqko.com/doc-truyen) ~ 18,700 rows.
